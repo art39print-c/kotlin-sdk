@@ -92,7 +92,6 @@ val resourceContent = client.readResource(
 ```
 
 ### Creating a Server
-
 ```kotlin
 import io.modelcontextprotocol.kotlin.sdk.server.Server
 import io.modelcontextprotocol.kotlin.sdk.server.ServerOptions
